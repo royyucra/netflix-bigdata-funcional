@@ -20,7 +20,7 @@ El código está modularizado aplicando el principio de separación de responsab
 *   `engine.py`: Encapsula toda la lógica del motor utilizando funciones puras.
 *   `main.py`: Archivo principal que orquesta la ejecución e imprime los resultados por consola.
 
-## Cómo ejecutarlo
+## Cómo ejecutarlo corriendo
 
 Para correr la simulación localmente, asegúrate de tener Python instalado y ejecuta el siguiente comando en la terminal:
 
